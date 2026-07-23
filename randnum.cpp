@@ -35,7 +35,7 @@ int main()
                 }
                 else
                 {
-                    cout << "BINGO \n";
+                    cout << "BINGOS \n";
                 }
             }
         }
